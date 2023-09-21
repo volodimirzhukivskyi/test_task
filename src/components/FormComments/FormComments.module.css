@@ -1,0 +1,26 @@
+.colorPicker {
+  height: 40px;
+  border: 1px solid lightblue;
+  border-radius: 2px;
+}
+.textInput {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid lightblue;
+  resize: vertical;
+  outline: none;
+  font-size: 16px;
+}
+.submit {
+  background-color: aqua;
+}
+.item {
+  display: flex;
+  gap: 5px;
+}
+.list {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
