@@ -1,17 +1,33 @@
-# Опис проекту
+# Project Description
 
-Проект був створений з використанням таких технологій і підходів:
+The project was created using the following technologies and approaches:
 
-- **Vite**: Цей проект був зібраний за допомогою Vite.
+- **Vite**: This project was built using Vite.
 
-- **React**: Для створення користувацького інтерфейсу була використана бібліотека React.
+- **React**: The React library was used to create the user interface.
 
-- **Local Storage**: У проекті було використано локальне сховище (Local Storage) для збереження даних.
+- **Local Storage**: Local Storage was employed in the project to store data.
 
-- **CSS Modules**: Для стилізації компонентів були використані CSS Modules.
+- **CSS Modules**: CSS Modules were used for styling components.
 
-- **Резинова верстка**: Макет проекту адаптується при зміні розміру екрану, що дозволяє коректно відображати контент на різних пристроях та роздільних здатностях.
+- **Responsive Design**: The project's layout adapts to changes in screen size, ensuring proper content display on various devices and resolutions.
 
-Проект повністю відповідає технічному завданню.
+## The project fully complies with the technical requirements.
 
-Якщо у вас є додаткові питання або потреба в більш детальному описі проекту, будь ласка, повідомте мене.
+To get the project up and running, follow these steps:
+
+1. Navigate to the project folder in your terminal.
+
+2. Install the required dependencies by running the following command:
+
+   ```
+   npm install
+   ```
+
+3. Start the application using the following command:
+
+   ```
+   npm run dev
+   ```
+
+If you have any additional questions or need a more detailed description of the project, please feel free to let me know.
